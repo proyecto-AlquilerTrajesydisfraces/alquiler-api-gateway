@@ -1,0 +1,17 @@
+{
+    "name": "tiendaalquilerapigateway",
+    "version": "1.0.0",
+    "description": "Enlace API para manejar solicitudes de clientes de la tienda de alquiler de trajes y disfraces",
+    "main": "src/index",
+    "scripts": {},
+    "author": "Lina Cardozo Rosas",
+    "license": "ISC",
+    "dependencies": {
+        "apollo-datasource-rest": "^3.6.1",
+        "apollo-server": "^3.9.0",
+        "graphql": "^15.8.0",
+        "lodash": "^4.17.21",
+        "micro": "^9.3.4",
+        "node-fetch": "^2.6.1"
+    }
+}
